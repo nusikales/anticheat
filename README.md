@@ -27,3 +27,4 @@
 #### Using
 
 drag it into ur server resources 🤷‍♂️
+Actually nvm, you will have to edit a few things as it was supposed to run on my framework.
